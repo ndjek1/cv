@@ -141,13 +141,13 @@ nav ul a li {
     width: 100%;
  }
  .text{
-    width: 50%;
+    width: 545%;
     font-size: 30px;
     color: white;
  }
  .mainhobi{
     width: 100%;
-    max-width: 100%;
+    max-width: 90%;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -160,9 +160,9 @@ nav ul a li {
     font-size: 50px;
  }
 .content{
-    position: relative;
-    top: 30%;
-    left: 0;
+    position: absolute;
+    top: 50%;
+    left: 8px;
 }
 .content h1{
     color: white;
