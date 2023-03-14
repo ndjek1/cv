@@ -165,7 +165,7 @@ nav ul a li {
 }
 .content h1{
     color: white;
-    font-size: 75;
+    font-size: 55px;
     margin: 20px 0 20px;
 }
 h3{
@@ -294,6 +294,9 @@ footer p:nth-child(2){
 }
 option{
     background: #101010;
+}
+body{
+    width:auto;
 }
 
 
