@@ -124,8 +124,7 @@ nav ul a li {
  }
  .main{
     width: 100%;
-    padding: 100px 0;
-    align-items: center
+    padding: 70px 0;
  }
  span{
     color: red;
@@ -141,13 +140,13 @@ nav ul a li {
     width: 100%;
  }
  .text{
-    width: 545%;
+    width: 550%;
     font-size: 30px;
     color: white;
  }
  .mainhobi{
     width: 100%;
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
     display: flex;
     align-items: center;
