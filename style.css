@@ -140,8 +140,8 @@ nav ul a li {
     width: 100%;
  }
  .text{
-    width: 550px;
-    font-size: 30px;
+    width: 450px;
+    font-size: 20px;
     color: white;
  }
  .mainhobi{
@@ -161,7 +161,7 @@ nav ul a li {
 .content{
     position: absolute;
     top: 50%;
-    left: 8px;
+    left: 30%;
 }
 .content h1{
     color: white;
