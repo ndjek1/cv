@@ -140,7 +140,7 @@ nav ul a li {
     width: 100%;
  }
  .text{
-    width: 550%;
+    width: 550px;
     font-size: 30px;
     color: white;
  }
@@ -295,4 +295,5 @@ footer p:nth-child(2){
 option{
     background: #101010;
 }
+
 
