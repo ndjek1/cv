@@ -162,7 +162,7 @@ nav ul a li {
 .content{
     position: absolute;
     top: 50%;
-    left: 8%;
+    left: 0;
 }
 .content h1{
     color: white;
