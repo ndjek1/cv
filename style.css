@@ -239,9 +239,9 @@ ol li{
     display: flex;
     place-items: center;
     position: relative;
-    width: 50%;
-     display: grid;
-     margin-top: 30%;
+    width: 600px;
+    height: 600px;
+ color: white;
 }
 footer{
     position: relative;
